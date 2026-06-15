@@ -1,0 +1,14 @@
+#what i need to add in gitignore file depends on the type of project you are working on. Here are some common entries you might want to include in your .gitignore file:
+# Node.js   
+node_modules/
+# Python
+__pycache__/
+*.pyc
+# Java
+*.class
+# IDEs and editors
+.vscode/
+.idea/
+# Operating system files
+.DS_Store   
+
